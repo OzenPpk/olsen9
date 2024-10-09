@@ -38,7 +38,7 @@ criaCartao(
     'Física',
     'qual a velocidade da luz?',
     '299 792 458 ms '
-    .
+    
     )
     
     criaCartao(
