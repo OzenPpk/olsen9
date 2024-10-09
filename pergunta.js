@@ -6,20 +6,20 @@ criaCartao(
     
     criaCartao(
     'História',
-    'Quem foi o primeiro presidente do Brasil?',
-    'Deodoro da Fonseca foi o primeiro presidente do Brasil.'
+    'Quem foi o ultimo presidente do Brasil?',
+    'Luiz Inácio Lula da Silva,foi o ultimo presidente do Brasil.'
     )
     
     criaCartao(
     'Geografia',
-    'Qual é o maior continente do mundo?',
-    'A Ásia é o maior continente do mundo em área e população.'
+    'Qual é o menor continente do mundo?',
+    'A Oceania é o menor continente do planeta, com 8. 526,000 km².'
     )
     
     criaCartao(
     'Ciências',
-    'Qual é a fórmula química da água?',
-    'A fórmula química da água é H2O.'
+    'Qual é a fórmula química do acido sulfurico?',
+    'A fórmula química do acido sulfurico é H₂SO₄.'
     )
     
     criaCartao(
@@ -30,14 +30,15 @@ criaCartao(
     
     criaCartao(
     'Biologia',
-    'Qual é a unidade fundamental da vida?',
-    'A célula é a unidade fundamental da vida.'
+    'Quais sao os 3 tipos de biologia?',
+    'biologia celular molecular e biofisica.'
     )
     
     criaCartao(
     'Física',
-    'O que é velocidade?',
-    'Velocidade é a taxa de variação da posição de um objeto em relação ao tempo.'
+    'qual a velocidade da luz?',
+    '299 792 458 ms '
+    .
     )
     
     criaCartao(
@@ -60,8 +61,8 @@ criaCartao(
     
     criaCartao(
     'Geografia',
-    'Qual é o rio mais longo do mundo?',
-    'O rio Nilo é o mais longo do mundo.'
+    'Qual é o menor rio do mundo?',
+    'rio Reprua.'
     )
     
     criaCartao(
@@ -72,8 +73,8 @@ criaCartao(
     
     criaCartao(
     'Literatura',
-    'Quem escreveu "O Pequeno Príncipe"?',
-    'Antoine de Saint-Exupéry escreveu "O Pequeno Príncipe".'
+    'Quem escreveu "Memórias Póstumas de Brás Cubas"?',
+    'Machado de Assis escreveu "Memórias Póstumas de Brás Cubas".'
     )
     
     criaCartao(
@@ -108,8 +109,8 @@ criaCartao(
     
     criaCartao(
     'Geografia',
-    'Qual é a capital da Austrália?',
-    'A capital da Austrália é Canberra.'
+    'Qual é a capital da china?',
+    'A capital da china é Pequim.'
     )
     
     criaCartao(
