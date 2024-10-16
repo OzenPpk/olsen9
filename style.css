@@ -1,8 +1,8 @@
 :root{
---fundo :#d8ed64;
---cartao-frente:#00ff00;
+--fundo :#fefffb;
+--cartao-frente:#1d271d;
 --cartao-verso:#000000;
---destaque:#FF0000;
+--destaque:#000000;
 --preto:#000000;
 --branco:#ffffff;    
 }
@@ -50,4 +50,10 @@ margin: 0.6rem;
 padding: 0.6rem;
 border-radius: 0.6rem;
 font-size: 1vw;
+}
+
+.conteudo-cartao p{
+    margin-top: 4rem;
+    font-size: 1,4rem;
+    padding: 2rem;
 }
