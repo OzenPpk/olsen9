@@ -2,7 +2,7 @@
 --fundo :#fefffb;
 --cartao-frente:#808080;
 --cartao-verso:#000000;
---destaque:#000000;
+--destaque:#fc0303;
 --preto:#000000;
 --branco:#ffffff;    
 }
@@ -68,5 +68,5 @@ font-size: 1vw;
 
 .cartao:hover .conteudo-cartao{
     transform: rotateY(180deg);
-    
+
 }
